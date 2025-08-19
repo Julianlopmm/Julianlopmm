@@ -37,4 +37,4 @@ My goal is to leverage my **technical knowledge and creativity** to contribute t
 
 ---
 
-⭐ *“Always learning, always building.”* ⭐
+
