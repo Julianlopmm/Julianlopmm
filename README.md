@@ -1,6 +1,6 @@
 # 👋 Hey there! I'm Julián López Mata  
 
-🎓 I am a **Computer Engineering student** at the *Costa Rica Institute of Technology*, passionate about **technology, problem-solving, and continuous learning**.  
+🎓 I am a **Computer Engineering student** at the *Instituto Tecnológico de Costa Rica*, passionate about **technology, problem-solving, and continuous learning**.  
 
 🚀 Throughout my academic journey, I’ve gained experience in both **individual and group projects**, working with diverse technologies
 
